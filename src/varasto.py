@@ -37,9 +37,9 @@ class Varasto:
 
             return kaikki_mita_voidaan
 
-        #self.saldo = self.saldo - maara
+        self.saldo = self.saldo - maara
         # kohta, joka hajottaa koodin (tehtävä 10)
-        self.saldo = self.saldo + 500000
+        #self.saldo = self.saldo + 500000
 
         return maara
     
