@@ -5,4 +5,4 @@
 
 \\
 
-![linkki tehtäviin 2-13 (viikko1)](https://github.com/masiro918/ohtu-s2021)
+![linkki tehtäviin 14-16 (viikko1)](https://github.com/masiro918/ohtu-s2021)
